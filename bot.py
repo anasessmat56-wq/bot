@@ -27,8 +27,8 @@ DASHBOARD_CONFIGS = [
         "ajax_path": "/ints/agent/res/data_smscdr.php",
         "login_page": "/ints/login",
         "login_post": "/ints/signin",
-        "username": "mohamedgxip2",
-        "password": "mojamed271",
+        "username": "mohamedessmat",
+        "password": "@My2052011",
         "session": requests.Session(),
         "is_logged_in": False
     },
