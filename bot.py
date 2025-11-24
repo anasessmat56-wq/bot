@@ -1432,7 +1432,7 @@ def send_otp_to_user_and_group(date_str, number, sms):
             service = detect_service(sms)
             markup = types.InlineKeyboardMarkup()
             markup.row(
-                types.InlineKeyboardButton("Owner ~", url="https://t.me/XF_TX3"),
+                types.InlineKeyboardButton("Owner ~", url="https://t.me/w_X_M_A"),
                 types.InlineKeyboardButton("Channel", url="https://t.me/x_uuu_6")
             )
             bot.send_message(user_id, f"Your OTP Code 🦂, ~ من {service}:\n🔑 <code>{otp_code}</code>", reply_markup=markup, parse_mode="HTML")
@@ -1721,12 +1721,12 @@ def send_to_telegram_group(text):
     keyboard = {
         "inline_keyboard": [
             [
-                {"text": "Owner 1", "url": "https://t.me/XF_TX3"},
-                {"text": "Owner 2", "url": "https://t.me/HARLEY_EL_YOUTUBER_25"}
+                {"text": "Owner 1", "url": "https://t.me/w_X_M_A"},
+                
             ],
             [
-                {"text": "Channel 1", "url": "https://t.me/x_uuu_6"},
-                {"text": "Channel 2", "url": "https://t.me/harley0283"}
+                {"text": "Channel 1", "url": "https://t.me/+db6v6Gz9dBw0NDJk},
+                {"text": "Channel 2", "url": "https://t.me/+sotOcEaUXbBjM2U0"}
             ]
         ]
     }
